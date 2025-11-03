@@ -1,0 +1,14 @@
+C:\Projetos-CSharp\Exercicio1-Pedidos\PedidosSystem\obj\Debug\net9.0\PedidosSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos-CSharp\Exercicio1-Pedidos\PedidosSystem\obj\Debug\net9.0\PedidosSystem.AssemblyInfoInputs.cache
+C:\Projetos-CSharp\Exercicio1-Pedidos\PedidosSystem\obj\Debug\net9.0\PedidosSystem.AssemblyInfo.cs
+C:\Projetos-CSharp\Exercicio1-Pedidos\PedidosSystem\obj\Debug\net9.0\PedidosSystem.csproj.CoreCompileInputs.cache
+C:\Projetos-CSharp\Exercicio1-Pedidos\PedidosSystem\bin\Debug\net9.0\PedidosSystem.exe
+C:\Projetos-CSharp\Exercicio1-Pedidos\PedidosSystem\bin\Debug\net9.0\PedidosSystem.deps.json
+C:\Projetos-CSharp\Exercicio1-Pedidos\PedidosSystem\bin\Debug\net9.0\PedidosSystem.runtimeconfig.json
+C:\Projetos-CSharp\Exercicio1-Pedidos\PedidosSystem\bin\Debug\net9.0\PedidosSystem.dll
+C:\Projetos-CSharp\Exercicio1-Pedidos\PedidosSystem\bin\Debug\net9.0\PedidosSystem.pdb
+C:\Projetos-CSharp\Exercicio1-Pedidos\PedidosSystem\obj\Debug\net9.0\PedidosSystem.dll
+C:\Projetos-CSharp\Exercicio1-Pedidos\PedidosSystem\obj\Debug\net9.0\refint\PedidosSystem.dll
+C:\Projetos-CSharp\Exercicio1-Pedidos\PedidosSystem\obj\Debug\net9.0\PedidosSystem.pdb
+C:\Projetos-CSharp\Exercicio1-Pedidos\PedidosSystem\obj\Debug\net9.0\PedidosSystem.genruntimeconfig.cache
+C:\Projetos-CSharp\Exercicio1-Pedidos\PedidosSystem\obj\Debug\net9.0\ref\PedidosSystem.dll
