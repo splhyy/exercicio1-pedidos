@@ -34,22 +34,17 @@ Implementação do exercício de Herança e Composição em C#, demonstrando:
 
 \- `Promocao: decimal → decimal` - Estratégias de desconto
 
-
 ## 🚀 Como Executar
 
-# Navegar para o projeto principal
+### Compilar e executar o projeto:
 ```bash
 cd PedidosSystem
-```bash
-# Compilar e executar
-```bash
 dotnet run
-```bash
-# Voltar para pasta raiz e executar testes
-```bash
-cd ..
+
+Executar os testes:
+
+cd PedidosSystem
 dotnet test
-```bash
 
 🧪 Testes Implementados
 Teste LSP: Processamento funciona com todos os tipos sem downcast
