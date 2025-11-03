@@ -35,42 +35,27 @@ Implementação do exercício de Herança e Composição em C#, demonstrando:
 \- `Promocao: decimal → decimal` - Estratégias de desconto
 
 
-
-\## 🚀 Como Executar
-
-
+## 🚀 Como Executar
 
 ```bash
-
-\# Navegar para o projeto principal
-
+# Navegar para o projeto principal
 cd PedidosSystem
 
-
-
-\# Compilar e executar
-
+# Compilar e executar
 dotnet run
 
-
-
-\# Executar testes (na pasta raiz)
-
+# Voltar para pasta raiz e executar testes
+cd ..
 dotnet test
 
-## 🧪 Testes Implementados
+´´
 
-\- Teste LSP: Processamento funciona com todos os tipos sem downcast
+🧪 Testes Implementados
+Teste LSP: Processamento funciona com todos os tipos sem downcast
 
-\- Teste Composição: Troca de frete altera total sem novas subclasses
+Teste Composição: Troca de frete altera total sem novas subclasses
 
-\- Teste Múltiplas Políticas: Combinação de políticas funciona corretamente
+Teste Múltiplas Políticas: Combinação de políticas funciona corretamente
 
----
-
-
-
-Desenvolvido por: Shara Palharini Lima (https://github.com/splhyy)  
-
-Como parte do estudo de Herança, Abstratas, Interfaces e Composição em C#
-
+Desenvolvido por: Shara Palharini Lima
+(https://github.com/splhyy)
