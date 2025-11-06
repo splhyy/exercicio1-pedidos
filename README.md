@@ -37,15 +37,15 @@ Implementação do exercício de Herança e Composição em C#, demonstrando:
 ## 🚀 Como Executar
 
 ### Compilar e executar o projeto:
-```bash
+```
 cd PedidosSystem
 dotnet run
-
+````
 Executar os testes:
-
+````
 cd PedidosSystem
 dotnet test
-
+````
 ##🧪 Testes Implementados
 Teste LSP: Processamento funciona com todos os tipos sem downcast
 
